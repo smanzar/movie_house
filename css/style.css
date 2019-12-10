@@ -118,7 +118,7 @@ main> *:not(#slider){padding: 40px 0}
 
 .slider-for, .slider-nav{padding: 0;list-style: none;}
 .slider-for img{height: 360px;object-fit: cover;width: 100%;}
-.slider-nav li{margin-bottom: 10px;display: flex !important;background: #fff;border-radius: 7px;}
+.slider-nav li{margin-bottom: 10px;display: flex !important;background: #fff;border-radius: 7px;border: 0 !important;}
 .slider-nav li img{border-top-left-radius: 7px;border-bottom-left-radius: 7px;width: 30%;object-fit: cover;}
 .slider-nav li .desc{padding: 5px 15px;}
 .slider-nav li .desc h4{font-size: 17px;font-weight: 700;margin: 0;text-transform: capitalize;color: #010101;}
